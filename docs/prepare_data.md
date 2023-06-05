@@ -1,5 +1,5 @@
 # Data preparation
-In a nutshell, we train our models with 150 images labeled with 2D keypoints from [Pascal VOC](http://host.robots.ox.ac.uk/pascal/VOC/) and/or [COCO](https://cocodataset.org/#home). We also evaluate our models on [Animal Pose](https://sites.google.com/view/animal-pose/) dataset. You can download annotations for those datasets, the necessasry files (e.g., animal meshes etc), and model weights from [here](https://drive.google.com/drive/u/1/folders/1TmSxpZc7WntYkFTbiDRr61c2euD1xUxs). Place the downloaded cachedir.zip file in `acsm/acsm/` and extract it.
+In a nutshell, we train our models with 150 images labeled with 2D keypoints from [Pascal VOC](http://host.robots.ox.ac.uk/pascal/VOC/) and/or [COCO](https://cocodataset.org/#home). We also evaluate our models on [Animal Pose](https://sites.google.com/view/animal-pose/) dataset. You can download annotations for those datasets, the necessasry files (e.g., animal meshes etc), and model weights from [here](https://drive.google.com/file/d/14NTnURgs2RX2WNJIFeSt0fCfzl5zxdBj/view?usp=sharing). Place the downloaded cachedir.zip file in `acsm/acsm/` and extract it.
 
 Download the images for Pascal VOC by running the following command:
 ```
