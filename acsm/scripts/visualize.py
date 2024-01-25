@@ -23,7 +23,7 @@ import constants
 from acsm.model import model_utils
 from acsm.utils.test_utils import Tester
 from acsm.model.network import ACSM
-from acsm.data.objects import ImageDatasetEval
+from acsm.datasets.objects import ImageDatasetEval
 from acsm.utils.visuals import vis_utils, vis_utils_cmr
 
 

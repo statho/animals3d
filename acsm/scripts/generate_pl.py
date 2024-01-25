@@ -24,7 +24,7 @@ import constants
 from acsm.model import model_utils
 from acsm.model.network import ACSM
 from acsm.utils.test_utils import Tester
-from acsm.data.objects import UnlabeledDataset
+from acsm.datasets.objects import UnlabeledDataset
 from acsm.utils.visuals import vis_utils_cmr
 
 

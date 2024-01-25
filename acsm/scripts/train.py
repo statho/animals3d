@@ -29,7 +29,7 @@ import constants
 from acsm.model import model_utils
 from acsm.utils import mesh_utils
 from acsm.model.network import ACSM
-from acsm.data.objects import ImageDataset
+from acsm.datasets.objects import ImageDataset
 from acsm.utils.visuals import vis_utils, vis_utils_cmr, visdom_render
 from acsm.utils.train_utils import Trainer
 

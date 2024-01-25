@@ -17,7 +17,7 @@ from torch.utils.data import DataLoader
 
 import constants
 from acsm.utils import geom_utils_ucmr
-from acsm.data.objects import ImageDatasetEval
+from acsm.datasets.objects import ImageDatasetEval
 from acsm.model import model_utils
 from acsm.model.network import ACSM
 from acsm.utils.test_utils import Tester
