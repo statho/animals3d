@@ -7,7 +7,7 @@ from absl import flags
 from torch.utils.data import Dataset
 
 from acsm.utils import image_utils
-from acsm.data.base import BaseDataset
+from acsm.datasets.base import BaseDataset
 
 
 flags.DEFINE_string('category', 'horse', 'object category')
